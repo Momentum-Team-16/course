@@ -15,10 +15,10 @@ drf-library-api:
 # phase 3 frontend
 js_exercism:
   url: https://exercism.org/tracks/javascript
-  due_date: 2023-01-04
+  due_date: 2023-01-18
 react_beginner_tutorial:
-  url: ''
-  due_date: 2023-01-04
+  url: 'https://classroom.github.com/a/lg-JhqKP'
+  due_date: 2023-01-19
 react_freeshelf:
   url: ''
   due_date: 2023-01-04
