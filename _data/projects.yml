@@ -1,0 +1,38 @@
+# phase 3 backend
+habit_tracker:
+  url: https://classroom.github.com/a/rm1pmmw2
+  due_date: 2023-01-23
+drf_tutorial_official:
+  url: https://www.django-rest-framework.org/tutorial/1-serialization/
+  due_date: 2023-01-26
+drf_tutorial_guide:
+  url: https://learndjango.com/tutorials/official-django-rest-framework-tutorial-beginners
+  due_date: 2023-01-26
+drf-library-api:
+  url: ''
+  due_date: 2023-01-04
+
+# phase 3 frontend
+js_exercism:
+  url: https://exercism.org/tracks/javascript
+  due_date: 2023-01-04
+react_beginner_tutorial:
+  url: ''
+  due_date: 2023-01-04
+react_freeshelf:
+  url: ''
+  due_date: 2023-01-04
+react_trivia:
+  url: ''
+  due_date: 2023-01-04
+react_slideshow:
+  url: ''
+  due_date: 2023-01-04
+
+# phase 3 collab
+social-e-cards:
+  url: ''
+  due_date: 2023-01-04
+questionbox:
+  url: ''
+  due_date: 2023-01-04

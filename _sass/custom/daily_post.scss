@@ -1,0 +1,20 @@
+.daily-post {
+  @extend %card;
+
+  h1, h2 {
+    @extend .text-gamma;
+  }
+
+  .daily-post-meta {
+    @extend .text-epsilon;
+  }
+}
+
+.daily-post-header {
+  display: flex;
+  justify-content: space-between;
+
+  span {
+    margin-top: $sp-2;
+  }
+}

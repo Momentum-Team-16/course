@@ -1,0 +1,34 @@
+html-bears:
+  code_url: https://github.com/momentum-team-x/example--html
+css-flexbox:
+  code_url: https://github.com/momentum-team-x/example--css-flexbox
+js_variables:
+  video_url: https://vimeo.com/showcase/7220986/video/426872305
+js_types:
+  video_url: https://vimeo.com/showcase/7220986/video/426872279
+js_functions:
+  video_url: https://vimeo.com/showcase/7220986/video/426872241
+js_arrays:
+  code_url: https://codepen.io/rlconley/pen/eYVeyJx
+js_for_of_loops:
+  video_url: https://vimeo.com/426872217
+js_for_and_while_loops:
+  video_url: https://vimeo.com/426872183
+radius_example_codepen:
+  code_url: https://codepen.io/rlconley/pen/MWQEZwL
+js_calculator:
+  code_url: https://codepen.io/rlconley/pen/KKQZPmP
+js_objects_simpsons:
+  code_url: https://codepen.io/rlconley/pen/wvppXRy
+js_find_people_by_city:
+  code_url: https://codepen.io/rlconley/pen/poppZLz
+mari_edwards_objects:
+  video_url: https://vimeo.com/429329778
+js_objects_and_the_DOM:
+  code_url: https://github.com/Momentum-Team-11/example-js-object-data-and-the-dom
+js_working_calculator:
+  code_url: https://github.com/Momentum-Team-11/example-js-calculator
+js-forms:
+  code_url: https://codepen.io/rlconley/pen/mdXjLdL
+ajax:
+  code_url: https://github.com/momentum-team-x/github-api-portfolio-rlconley
