@@ -22,7 +22,7 @@ layout: resource_list
 ## Modern JS Landscape
 
 - [Modern JavaScript Explained for Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70) -> This is essential for context.
-- 📖 [State of JS 2021 Survey Results](https://2021.stateofjs.com/en-US/) -> This is actually data collected in 2022. Skim for an overview of current trends in the JS ecosystem.
+- 📖 [State of JS 2022 Survey Results](https://2022.stateofjs.com/en-US/) -> Skim for an overview of current trends in the JS ecosystem.
 - 📺 [Modern JavaScript for Django Developers](https://2021.djangocon.us/talks/modern-javascript-for-django-developers/)
 - 📖 [Modern JavaScript for Django Developers](https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/) - this is the blog post version of the above talk. **Read the first two parts only**:
     - [Part 1: Organizing your Front-End Codebase in a Django Project](https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/client-server-architectures/)
