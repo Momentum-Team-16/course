@@ -34,8 +34,19 @@ layout: resource_list
 - [Dan Abramov, Broken by Design](https://overreacted.io/npm-audit-broken-by-design/) - Read this to understand the context for all the many security warnings and dire messages that appear in your terminal when you use npm.
 - [Computer setup instructions for installing npm](https://momentumlearn.notion.site/Computer-Set-up-Instructions-Apple-Silicon-ec1d2bca911a467a97655127390e8209)
 
-## ESLint
+## Linting and Formatting
+
+1. [How to use Prettier in VS Code](https://www.robinwieruch.de/how-to-use-prettier-vscode/)
+2. [How to use ESLint in VS Code](https://www.robinwieruch.de/vscode-eslint/)
+3. [How to use Prettier with ESLint](https://www.robinwieruch.de/prettier-eslint/)
+
+### ESLint
 
 - [ESLint Plug-in for VS Code](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [ESLint Docs: Getting Started](https://eslint.org/docs/user-guide/getting-started) You probably don't need to get too deep into this right now, but if you want to know more about configuring ESLint, this is the place to go.
 - [How to Lint and Format Code with ESLint in VS Code](https://www.digitalocean.com/community/tutorials/linting-and-formatting-with-eslint-in-vs-code) This tutorial walks you through using ESLint in a more comprehensive way.
+
+### Prettier
+
+- [Prettier Code Formatter](https://prettier.io/) This is information about the extenstion that you can (and should) install in VS Code.
+- [How to format code with Prettier](https://www.digitalocean.com/community/tutorials/code-formatting-with-prettier-in-visual-studio-code)

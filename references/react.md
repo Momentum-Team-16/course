@@ -11,7 +11,7 @@ layout: resource_list
 
 - [Ali Spittel, Beginner's Guide to React Tutorial](https://welearncode.com/beginners-guide-react-2020/).
 - [Kent C. Dodds, The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
-- [The Official React tutorial](https://reactjs.org/tutorial/tutorial.html) - classic, official. Uses class-based components, which are a bit older, but still widely used
+- [The official (beta) React tutorial](https://beta.reactjs.org/learn/tutorial-tic-tac-toe) - classic, official.
 - [Dave Ceddia, React Tutorial](https://daveceddia.com/react-getting-started-tutorial/)
 
 ## Getting Started

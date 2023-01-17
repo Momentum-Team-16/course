@@ -4,7 +4,7 @@
 [vs-code]: {% link references/learning.md %}#using-vs-code
 [help]: {% link references/learning.md %}#asking-question-+-getting-help
 [mindset]: {% link references/learning.md %}#mindset
-[prettier]: {% link references/tools.md %}#front-end-code-formatting
+[prettier]: {% link references/tools.md %}#general-front-end-code-formatting
 
 [css-selectors-and-properties]: {% link references/css-basics.md %}#selectors-and-properties
 [css-start]: {% link references/css-basics.md %}#getting-started-with-css
@@ -47,6 +47,7 @@
 <!-- phase 3 react -->
 [npm]: {% link references/js-for-react.md %}#npm-and-node
 [eslint]: {% link references/js-for-react.md %}#eslint
+[linting-and-formatting]: {% link references/js-for-react.md %}#linting-and-formatting
 [css-libraries]: {% link references/css-extra.md %}#css-libraries
 [ship-it]: {% link references/react.md %}#the-ship-it-mindset
 [js-syntax]: {% link references/js-for-react.md %}#js-syntax-for-react

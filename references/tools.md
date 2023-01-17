@@ -7,7 +7,7 @@ layout: resource_list
 
 {% include summary_toc.html %}
 
-## Front End Code Formatting
+## General Front End Code Formatting
 
 - [Prettier Code Formatter](https://prettier.io/) This is information about the extenstion that you can (and should) install in VS Code.
 - [How to format code with Prettier](https://www.digitalocean.com/community/tutorials/code-formatting-with-prettier-in-visual-studio-code)
