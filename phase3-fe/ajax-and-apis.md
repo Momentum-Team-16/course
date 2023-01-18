@@ -26,7 +26,7 @@ This extended project is due on {{ site.data.projects.react_trivia.due_date | da
 ### How to Think About Building Things in React
 
 - 📺 [Understanding what it means to be declarative instead of imperative - video](https://youtu.be/E7Fbf7R3x6I)
-- 📖 [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
+- 📖 [Thinking in React](https://beta.reactjs.org/learn/thinking-in-react)
 - 📖 [Thinking in React 2020](https://dev.to/laserreindeer/thinking-in-react-the-2020-version-4c18)
 - 📖 [Thinking "declaratively" in React](https://daveceddia.com/thinking-statefully/)
 
