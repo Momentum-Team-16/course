@@ -5,15 +5,15 @@ topic: Python
 category: phase3-be
 parent: Phase 3 Back End
 nav_order: 3
-published: false
+published: true
 ---
 
-## Today's Topics
+## 🎯 Objectives
 
 - Interacting with models in the shell
 - Queries and more queries
 
-## 🎯 Project: Still Working on Habit Tracker
+## 🏗️ Project: Still Working on Habit Tracker
 
 You can do this! 💪 **What do you need to figure out in order to finish it?**
 
@@ -29,12 +29,8 @@ This rest of this section is material to prep for the topic we will begin next w
 
 #### 🦄 PRO TIPS
 
-- `django-debug-toolbar` has a SQL panel that will show you the queries you are running in the view.
-- With `shell_plus`, you can see output of all the SQL queries if you run it like this:
-
-```py
-python manage.py shell_plus --print-sql
- ```
+- [`django-debug-toolbar`](https://django-debug-toolbar.readthedocs.io/en/latest/) has a SQL panel that will show you the queries you are running in the view.
+- With `shell_plus` (from [django-extensions](https://django-extensions.readthedocs.io/en/latest/shell_plus.html?highlight=shell_plus#shell-plus)), you can see output of all the SQL queries if you run it like this: `python manage.py shell_plus --print-sql`
 
 ## 🔖 References
 

@@ -5,17 +5,17 @@ topic: JavaScript
 category: phase3-fe
 parent: Phase 3 Front End
 nav_order: 3
-published: false
+published: true
 ---
 
-## Objectives
+## 🎯 Objectives
 
 - Review first impressions of React
-- Build a small React app together in class
+- Build a small React app together
 - Components and JSX
 - Handling data in React with props and state
 
-## 🎯 Project: Freeshelf | Slideshow
+## 🏗️ Project: Freeshelf | Slideshow
 
 Today, you'll start on your first React app without a tutorial. This is **due on {{ site.data.projects.react_freeshelf.due_date | date: "%A, %B %e" }}**.
 
