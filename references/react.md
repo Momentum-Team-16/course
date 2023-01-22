@@ -93,12 +93,18 @@ layout: resource_list
 - [More custom hooks](https://github.com/streamich/react-use)
 - [Official React docs on custom hooks](https://reactjs.org/docs/hooks-custom.html)
 
+### Custom hooks for local storage
+
+- [Persisting React State in localstorage](https://www.joshwcomeau.com/react/persisting-react-state-in-localstorage/) _This blog post explains why you'd use a custom hook for this purpose as well as how you'd write it from scratch._
+- [useLocalStorageState](https://github.com/astoilkov/use-local-storage-state) _This npm package gives you a custom hook to do what the above article walks you through doing._
+
 ## Forms
 
-- [Controlled vs uncontrolled form inputs in React](https://goshakkk.name/controlled-vs-uncontrolled-inputs-react/) _This is a good summary of the two options for forms in React but be aware that the code examples use the older class syntax instead of function components with hooks._
 - [Dave Ceddia: React Forms](https://daveceddia.com/react-forms/)
 - [React Mental Model: Working with Input](https://learnreact.design/posts/react-mental-model-html-input)
+- [React beta docs API reference: working with `<input>`](https://beta.reactjs.org/reference/react-dom/components/input)
 - [React Official Docs: Uncontrolled components](https://reactjs.org/docs/uncontrolled-components.html)
+- [Controlled vs uncontrolled form inputs in React](https://goshakkk.name/controlled-vs-uncontrolled-inputs-react/) _This is a good summary of the two options for forms in React, but be aware that the code examples use the older class syntax instead of function components with hooks._
 
 ## File Upload
 
