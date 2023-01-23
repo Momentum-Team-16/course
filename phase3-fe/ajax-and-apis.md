@@ -5,21 +5,21 @@ topic: JavaScript
 category: phase3-fe
 parent: Phase 3 Front End
 nav_order: 4
-published: false
+published: true
 ---
 
-## Objectives
+## 🎯 Objectives
 
 - More about using state in React
 - Conditional rendering
 - How to make AJAX calls in React using Axios
 - The `useEffect` hook
 
-## 🎯 Project: React Trivia
+## 🏗️ Project: React Trivia
 
-This extended project is due on {{ site.data.projects.react_trivia.due_date | date: "%A, %B %e" }}. You'll request data from the [Open Trivia API](https://opentdb.com/) to power your application.
+This extended project is due on {{ site.data.projects.react_trivia.due_date | date: "%A, %B %e" }}. You'll request data from the [Open Trivia API](https://opentdb.com/) to power a trivia quiz application built with React.
 
-[React Trivia]({{ site.data.projects.react_trivia.url}})
+[React Trivia GitHub Project Link]({{ site.data.projects.react_trivia.url}})
 
 ## 📖 Read | 📺 Watch | 🎧 Listen
 
@@ -32,7 +32,7 @@ This extended project is due on {{ site.data.projects.react_trivia.due_date | da
 
 ### Props and State
 
-- 📖 [Props vs. State - blog post](https://lucybain.com/blog/2016/react-state-vs-pros/)
+- 📖 [Props vs. State - blog post](https://lucybain.com/blog/2016/react-state-vs-pros/) ⚠️ This post references the older class syntax of React. The basic concepts are the same, though.
 - 📺 [Using State vs Props in React - video](https://www.youtube.com/watch?v=IYvD9oBCuJI)
 
 ## 🔖 References

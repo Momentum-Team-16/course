@@ -34,7 +34,7 @@ layout: resource_list
 
 ## Props and State
 
-- [Props vs. State - blog post](https://lucybain.com/blog/2016/react-state-vs-pros/)
+- [Props vs. State - blog post](https://lucybain.com/blog/2016/react-state-vs-pros/) ⚠️ _This post references the older class syntax of React. The basic concepts are the same, though._
 - [Using State vs Props in React - video](https://www.youtube.com/watch?v=IYvD9oBCuJI)
 - [Props & State Re-explained](https://learnreact.design/posts/props-state-reexplained)
 
@@ -105,6 +105,7 @@ layout: resource_list
 - [React beta docs API reference: working with `<input>`](https://beta.reactjs.org/reference/react-dom/components/input)
 - [React Official Docs: Uncontrolled components](https://reactjs.org/docs/uncontrolled-components.html)
 - [Controlled vs uncontrolled form inputs in React](https://goshakkk.name/controlled-vs-uncontrolled-inputs-react/) _This is a good summary of the two options for forms in React, but be aware that the code examples use the older class syntax instead of function components with hooks._
+- [Data Binding in React (Using different form fields and keeping values in sync with state)](https://www.joshwcomeau.com/react/data-binding/)
 
 ## File Upload
 

@@ -19,3 +19,10 @@
   page: phase3-fe/props-and-state.md
   project_name: react_freeshelf
   code_demo_url: https://github.com/Momentum-Team-16/example-react-devs
+- title: AJAX and APIs
+  tag: fe
+  phase: 3
+  date: 2023-01-23
+  page: phase3-fe/ajax-and-apis.md
+  project_name: react_trivia
+  code_demo_url: https://github.com/Momentum-Team-16/example-react-devs

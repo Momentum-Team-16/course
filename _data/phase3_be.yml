@@ -20,3 +20,10 @@
   page: phase3-be/queries-and-django-shell.md
   project_name: habit_tracker
   code_demo_url: https://github.com/Momentum-Team-16/example-django-habit-tracker
+- title: HTTP and REST
+  tag: be
+  phase: 3
+  date: 2023-01-23
+  page: phase3-be/http-and-rest.md
+  project_name: drf_tutorial
+  code_demo_url: https://github.com/Momentum-Team-16/example-django-habit-tracker
