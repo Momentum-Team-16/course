@@ -27,3 +27,10 @@
   page: phase3-be/http-and-rest.md
   project_name: drf_tutorial
   code_demo_url: https://github.com/Momentum-Team-16/example-django-habit-tracker
+- title: Intro to Django REST Framework
+  tag: be
+  phase: 3
+  date: 2023-01-24
+  page: phase3-be/drf.md
+  project_name: drf_tutorial
+  code_demo_url: https://github.com/Momentum-Team-16/example-django-habit-tracker

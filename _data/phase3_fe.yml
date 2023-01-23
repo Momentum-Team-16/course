@@ -26,3 +26,10 @@
   page: phase3-fe/ajax-and-apis.md
   project_name: react_trivia
   code_demo_url: https://github.com/Momentum-Team-16/example-react-devs
+- title: Multiple Components and Conditional Rendering
+  tag: fe
+  phase: 3
+  date: 2023-01-24
+  page: phase3-fe/multiple-components.md
+  project_name: react_trivia
+  code_demo_url: https://github.com/Momentum-Team-16/example-react-devs

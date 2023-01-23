@@ -1,14 +1,14 @@
 ---
 layout: topic
-title: Django REST Framework
+title: Intro to Django REST Framework
 topic: Python
 category: phase3-be
 parent: Phase 3 Back End
 nav_order: 5
-published: false
+published: true
 ---
 
-## Objectives
+## 🎯 Objectives
 
 Today we dive into Django REST Framework. 🤿
 
@@ -18,11 +18,13 @@ Today we dive into Django REST Framework. 🤿
 - Using DRF Documentation
 - Generic API Views
 
-## 🎯 Project: Choose Your Own Adventure 🐪 🐫
+## 🏗️ Project: Choose Your Own Adventure 🐪 🐫
 
 Choose one of the following options.
 
 **The application must be deployed, whichever option you choose. 🚀**
+
+This project is due on {{ site.data.projects.drf_library_api.due_date | date: "%A, %B %e" }}.
 
 ### 🐪 OPTION ONE: Add an API to Habit Tracker
 
@@ -50,9 +52,11 @@ Write up a list of endpoints you think you will need before you start doing this
 
 You should develop and test your endpoints using Insomnia. You can also use the browsable API that DRF gives you in the browser, but you should be comfortable using Insomnia.
 
-### 🐫 OPTION TWO: Django Library API
+### 🐫 OPTION TWO: Library API
 
 Create a new API-only application that lets users keep track of books they are reading, want to read, or have read, and take private or public notes on books. More details about project requirements are included in the project README.
+
+[Library API Project]({{ site.data.projects.drf_library_api.url }}).
 
 You should _not_ make forms or templates for this app, but you _will_ need models, urls, views, and serializers. You should use class-based views and return JSON responses.
 
@@ -71,5 +75,6 @@ ___
 
 - [DRF]({% link references/drf.md %})
 - [HTTP & REST]({% link references/http.md %})
+- [Introduction to RESTful APIs][intro-apis]
 
 {% include reference_links.md %}
