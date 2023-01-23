@@ -9,7 +9,7 @@ layout: resource_list
 
 ## Intro to REST APIs
 
-- [Notes: REST APIs 101](https://momentumlearn.notion.site/REST-API-Development-101-63eb6a74c0d34c3d8933919fd5e9de77)
+- [Notes: REST APIs 101]({{ site.team_notes_repo }}/blob/main/rest.md)
 - [RESTful APIs](https://restful-api-design.readthedocs.io/en/latest/intro.html) Read up through the "Standard Methods" subsection of the section on "Methods". You can read more if you want to but it gets pretty deep.
 - [Safia Abdullah, You and Me Learn All About HTTP](https://dev.to/captainsafia/you-and-me-learn-all-about-http-with-safia-abdalla-3nd0)
 - [Web APIs Explained By Selling Goods From Your Farm](https://blog.codeanalogies.com/2018/02/27/web-apis-explained-by-selling-goods-from-your-farm/)
