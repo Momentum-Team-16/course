@@ -32,5 +32,12 @@
   phase: 3
   date: 2023-01-24
   page: phase3-be/drf.md
-  project_name: drf_tutorial
+  project_name: drf_choose_your_own_adventure
+  code_demo_url: https://github.com/Momentum-Team-16/example-django-habit-tracker
+- title: DRF Views and Serializers
+  tag: be
+  phase: 3
+  date: 2023-01-26
+  page: phase3-be/drf-serializers-and-views.md
+  project_name: drf_choose_your_own_adventure
   code_demo_url: https://github.com/Momentum-Team-16/example-django-habit-tracker

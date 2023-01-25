@@ -8,6 +8,9 @@ drf_tutorial:
 drf_tutorial_guide:
   url: https://learndjango.com/tutorials/official-django-rest-framework-tutorial-beginners
   due_date: 2023-01-26
+drf_choose_your_own_adventure:
+  url: https://classroom.github.com/a/NN3iTcDR
+  due_date: 2023-01-30
 drf_library_api:
   url: https://classroom.github.com/a/GQDYHpsY
   due_date: 2023-01-30

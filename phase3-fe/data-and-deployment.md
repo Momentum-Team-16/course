@@ -5,20 +5,22 @@ topic: JavaScript
 category: phase3-fe
 parent: Phase 3 Front End
 nav_order: 6
-published: false
+published: true
 ---
 
-## Objectives
+## 🎯 Objectives
 
 - Check in on project progress
 - Finding & fixing bugs in your project
 - Deploying to [Netlify](https://www.netlify.com/with/react/)
 
-## 🎯 Project
+## 🏗️ Project
 
-The React Trivia application is due on {{ site.data.projects.react_trivia.due_date | date: "%A, %B %e" }}. It should meet at least the **minimum functional requirements** and must be **deployed to Netlify.** 🚀
+The React Trivia application is due on {{ site.data.projects.react_trivia.due_date | date: "%A, %B %e" }}.
 
-**Minimum functional requirements:**
+It should meet at least the **minimum functional requirements** and must be **deployed to Netlify.** 🚀
+
+### Minimum functional requirements
 
 - A user can see a list of categories.
 - A user can select one category.
@@ -27,7 +29,7 @@ The React Trivia application is due on {{ site.data.projects.react_trivia.due_da
 - A user can see if that answer is the correct answer.
 - A user can go back to the category list and start over.
 
-**It would be awesome if:**
+#### It would be awesome if...
 
 - The answers are shuffled so that the correct answer is not always in the same position.
 - The questions are shown one at a time instead of all at once, and the user is able to advance through the set of questions.

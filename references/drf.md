@@ -33,7 +33,7 @@ layout: resource_list
 ## Serializers
 
 - [DRF Docs: Serializers](https://www.django-rest-framework.org/api-guide/serializers/)
-- [DRF Docs: oModelSerializer](https://www.django-rest-framework.org/api-guide/serializers/#modelserializer)
+- [DRF Docs: ModelSerializer](https://www.django-rest-framework.org/api-guide/serializers/#modelserializer)
 - [DRF Docs: Serializer SlugRelatedField](https://www.django-rest-framework.org/api-guide/relations/#slugrelatedfield)
 - [Using Different Read and Write Serializers in DRF](https://www.revsys.com/tidbits/using-different-read-and-write-serializers-django-rest-framework/)
 - [How to Save Extra Data to a DRF Serializer](https://simpleisbetterthancomplex.com/tutorial/2019/04/07/how-to-save-extra-data-to-a-django-rest-framework-serializer.html) - _for example, when you need to associate a user with an object that you are creating._

@@ -33,3 +33,10 @@
   page: phase3-fe/multiple-components.md
   project_name: react_trivia
   code_demo_url: https://github.com/Momentum-Team-16/example-react-devs
+- title: Deploying a React App
+  tag: fe
+  phase: 3
+  date: 2023-01-26
+  page: phase3-fe/data-and-deployment.md
+  project_name: react_trivia
+  code_demo_url: https://github.com/Momentum-Team-16/example-react-devs
