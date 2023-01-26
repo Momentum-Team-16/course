@@ -45,6 +45,7 @@ It should meet at least the **minimum functional requirements** and must be **de
 
 ## 🔖 References
 
+- [Instructions for deploying a React App to Netlify]([Instructions for deploying a React app to Netlify](https://momentumlearn.notion.site/Deploying-a-React-app-to-Netlify-409f3e2a2ae44ccd857b3797ff0963f8))
 - [Deployment][react-deploy]
 - [Managing State][react-state]
 - [AJAX in React][react-ajax]
