@@ -53,6 +53,6 @@
   date: 2023-01-30
   page: phase3-be/token-auth.md
   project_name: collaborative_project
-  code_demo_url: ''
+  code_demo_url: https://github.com/Momentum-Team-16/example-django-habit-tracker
   post_today: true
   published: true

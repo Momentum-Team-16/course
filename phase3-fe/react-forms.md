@@ -5,19 +5,25 @@ topic: JavaScript
 category: phase3-fe
 parent: Phase 3 Front End
 nav_order: 7
-published: false
+published: true
 ---
 
-## Objectives
+## 🎯 Objectives
 
 - React Trivia review
 - Follow up on yesterday's project planning
 - How to work with forms in React
-- Git Workflow
+- Plan for collaborative project
 
-## 🎯 Collaborative Project
+## 🏗️ Collaborative Project
 
-Today you should plan how to begin writing code for this project. Consider writing code together as a pair to get started ([here is a good template for pairing](https://tuple.app/pair-programming-guide/template)).
+Today we begin the project we'll work on for the rest of the phase. Read [today's post]({% link news.md %}) for more details.
+
+Meet with your teammates and plan the team project. You should have detailed wireframes, an idea of user flow (how your user interacts with your UI), and a plan for components done by tomorrow.
+
+Start with: What does my user see when they first land on this page? What will they do? What happens next? Draw sketches of each "screen" the user sees, and diagram how the UI changes when something happens.
+
+🚫 **No writing code yet**! Today is for planning only. We'll cover working together on GitHub tomorrow.
 
 ## 📖 Read | 📺 Watch | 🎧 Listen
 
