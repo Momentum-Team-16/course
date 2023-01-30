@@ -100,9 +100,9 @@ layout: resource_list
 
 ## Forms
 
-- [Dave Ceddia: React Forms](https://daveceddia.com/react-forms/)
-- [React Mental Model: Working with Input](https://learnreact.design/posts/react-mental-model-html-input)
 - [React beta docs API reference: working with `<input>`](https://beta.reactjs.org/reference/react-dom/components/input)
+- [React Mental Model: Working with Input](https://learnreact.design/posts/react-mental-model-html-input)
+- [Dave Ceddia: React Forms](https://daveceddia.com/react-forms/)
 - [React Official Docs: Uncontrolled components](https://reactjs.org/docs/uncontrolled-components.html)
 - [Controlled vs uncontrolled form inputs in React](https://goshakkk.name/controlled-vs-uncontrolled-inputs-react/) _This is a good summary of the two options for forms in React, but be aware that the code examples use the older class syntax instead of function components with hooks._
 - [Data Binding in React (Using different form fields and keeping values in sync with state)](https://www.joshwcomeau.com/react/data-binding/)

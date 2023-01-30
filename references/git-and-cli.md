@@ -7,16 +7,16 @@ layout: resource_list
 
 ## Command Line
 
-- [Really friendly command-line intro](https://drive.google.com/file/d/1E4ALJrjclTYE4C6lwIV517-SOXiZ-Dqb/view?usp=sharing)
+- [Really friendly command-line intro](https://drive.google.com/file/d/1InprtneRusVS6AeF5XU-SzYc-ExbRWMf/view)
 
 
 ## Git
 
-- [Really friendly Git intro](https://drive.google.com/open?id=125rubyTQpBwmpi6I_UzUWfT1aXeHmy5n)
+- [Really friendly Git intro](https://drive.google.com/file/d/1r7S30B0buECmHBanjFmTf98sYU71tI97/view)
 - [Git Cheat Sheet PDF](https://education.github.com/git-cheat-sheet-education.pdf)
 - [Git handbook from GitHub](https://guides.github.com/introduction/git-handbook/)
 - [Git Command Explorer](https://gitexplorer.com/) -- this tool lets you look up commands by what you are trying to do
-   [Quick video showing how to clone your project repo](https://www.loom.com/share/c7871fa5f80f4cbda3dbcce36db68dab)
+- [Quick video showing how to clone your project repo](https://www.loom.com/share/c7871fa5f80f4cbda3dbcce36db68dab)
 
 ## Advanced Git
 
