@@ -17,7 +17,7 @@
 tagline: A Jekyll template for course websites
 description: Based on Kevin Lin's Just The Class jekyll theme
 baseurl: '/course' # the subpath of your site, e.g. /blog
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE", ".jekyll-cache", ".sass-cache"]
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", ".jekyll-cache", ".sass-cache", ".github"]
 
 # ***** Team-specific settings  ***** EDIT THESE WHEN YOU CLONE A NEW REPO
 title: Momentum Team 16 Course Site

@@ -11,7 +11,6 @@ published: true
 ## 🎯 Objectives
 
 - React Trivia review
-- Follow up on yesterday's project planning
 - How to work with forms in React
 - Plan for collaborative project
 
