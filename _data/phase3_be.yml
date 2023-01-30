@@ -6,6 +6,7 @@
   post_today: true
   project_name: habit_tracker
   code_demo_url: https://github.com/Momentum-Team-16/example-django-music
+  published: true
 - title: Models and Queries
   tag: be
   phase: 3
@@ -13,6 +14,7 @@
   page: phase3-be/models-and-queries.md
   project_name: habit_tracker
   code_demo_url: https://github.com/Momentum-Team-16/example-django-music
+  published: true
 - title: Queries & Using the Shell
   tag: be
   phase: 3
@@ -20,6 +22,7 @@
   page: phase3-be/queries-and-django-shell.md
   project_name: habit_tracker
   code_demo_url: https://github.com/Momentum-Team-16/example-django-habit-tracker
+  published: true
 - title: HTTP and REST
   tag: be
   phase: 3
@@ -27,6 +30,7 @@
   page: phase3-be/http-and-rest.md
   project_name: drf_tutorial
   code_demo_url: https://github.com/Momentum-Team-16/example-django-habit-tracker
+  published: true
 - title: Intro to Django REST Framework
   tag: be
   phase: 3
@@ -34,6 +38,7 @@
   page: phase3-be/drf.md
   project_name: drf_choose_your_own_adventure
   code_demo_url: https://github.com/Momentum-Team-16/example-django-habit-tracker
+  published: true
 - title: DRF Views and Serializers
   tag: be
   phase: 3
@@ -41,3 +46,13 @@
   page: phase3-be/drf-serializers-and-views.md
   project_name: drf_choose_your_own_adventure
   code_demo_url: https://github.com/Momentum-Team-16/example-django-habit-tracker
+  published: true
+- title: Token Authentication and CORS
+  tag: be
+  phase: 3
+  date: 2023-01-30
+  page: phase3-be/token-auth.md
+  project_name: collaborative_project
+  code_demo_url: ''
+  post_today: true
+  published: true

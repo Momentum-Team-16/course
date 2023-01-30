@@ -5,6 +5,7 @@
   page: phase3-fe/modern-js.md
   post_today: true
   project_name: js_exercism
+  published: true
 - title: Hello React World
   tag: fe
   phase: 3
@@ -12,6 +13,7 @@
   page: phase3-fe/intro-react.md
   project_name: react_beginner_tutorial
   code_demo_url: https://github.com/Momentum-Team-16/example-most-minimal-react-app-ever
+  published: true
 - title: Components, Props, and State
   tag: fe
   phase: 3
@@ -19,6 +21,7 @@
   page: phase3-fe/props-and-state.md
   project_name: react_freeshelf
   code_demo_url: https://github.com/Momentum-Team-16/example-react-devs
+  published: true
 - title: AJAX and APIs
   tag: fe
   phase: 3
@@ -26,6 +29,7 @@
   page: phase3-fe/ajax-and-apis.md
   project_name: react_trivia
   code_demo_url: https://github.com/Momentum-Team-16/example-react-devs
+  published: true
 - title: Multiple Components and Conditional Rendering
   tag: fe
   phase: 3
@@ -33,6 +37,7 @@
   page: phase3-fe/multiple-components.md
   project_name: react_trivia
   code_demo_url: https://github.com/Momentum-Team-16/example-react-devs
+  published: true
 - title: Deploying a React App
   tag: fe
   phase: 3
@@ -40,3 +45,13 @@
   page: phase3-fe/data-and-deployment.md
   project_name: react_trivia
   code_demo_url: https://github.com/Momentum-Team-16/example-react-devs
+  published: true
+- title: Forms in React
+  tag: fe
+  phase: 3
+  date: 2023-01-30
+  page: phase3-fe/react-forms.md
+  project_name: collaborative_project
+  code_demo_url: https://github.com/Momentum-Team-16/example-react-devs
+  post_today: true
+  published: true
