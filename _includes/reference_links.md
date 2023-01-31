@@ -5,6 +5,7 @@
 [help]: {% link references/learning.md %}#asking-question-+-getting-help
 [mindset]: {% link references/learning.md %}#mindset
 [prettier]: {% link references/tools.md %}#general-front-end-code-formatting
+[html-forms]: {% link references/forms.md %}#html-forms
 
 [css-selectors-and-properties]: {% link references/css-basics.md %}#selectors-and-properties
 [css-start]: {% link references/css-basics.md %}#getting-started-with-css
@@ -14,6 +15,7 @@
 [apis]: {% link references/js-ajax-and-apis.md %}#apis
 [js-truthy-falsy]: {% link references/js-basics.md %}#truthy-and-falsy
 [js-dates]: {% link references/js-misc.md %}#working-with-dates
+[js-forms]: {% link references/js-forms.md %}
 
 
 <!-- tools -->

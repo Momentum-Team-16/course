@@ -17,6 +17,7 @@ layout: resource_list
 - [MDN HTML label element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label)
 - [MDN submit event](https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement/submit_event)
 - [MDN Event.preventDefault](https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault)
+- [MDN Using FormData Objects](https://developer.mozilla.org/en-US/docs/Web/API/FormData/Using_FormData_Objects)
 
 ### Form Validation
 

@@ -56,3 +56,11 @@
   code_demo_url: https://github.com/Momentum-Team-16/example-django-habit-tracker
   post_today: true
   published: true
+- title: Models and API Design
+  tag: be
+  phase: 3
+  date: 2023-01-31
+  page: phase3-be/models-api-design.md
+  project_name: collaborative_project
+  code_demo_url: https://github.com/Momentum-Team-16/example-django-habit-tracker
+  published: true

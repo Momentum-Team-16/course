@@ -5,16 +5,16 @@ topic: Python
 category: phase3-be
 parent: Phase 3 Back End
 nav_order: 8
-published: false
+published: true
 ---
 
-## Objectives
+## 🎯 Objectives
 
 - Models for your collaborative project
 - Designing the endpoints you need
-- Setting CORS Headers
+- Setting CORS headers
 
-## 🎯 Collaborative Project
+## 🏗️ Collaborative Project
 
 Today you should have your models nailed down and be able to work with them in the admin and the shell -- that is, you can save them to the database and retrieve them, and all the relationships work properly (for example, can you create a new friend for a user, and query to see a user's friends? Can you write a query to see a user's friends' cards?).
 
@@ -29,7 +29,7 @@ When creating your list of endpoints, remember to **only build what you need.**
 - Will you need to restrict any actions at the object level? For example, you'll probably want to make sure that only the owner of a resource can make changes to it, or add associated objects.
 - For each endpoint you are making, you should be able to answer the question: Why do we need this? If you don't know, ask your front-end developers if they need it, and why. If no one has a good reason, then you should not make the endpoint.
 
-### Goals by the end of the week
+### Goals by the next meeting
 
 At minimum, your API should...
 

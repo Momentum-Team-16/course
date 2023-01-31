@@ -100,6 +100,8 @@ layout: resource_list
 
 ## Forms
 
+_See also [JS: Forms][js-forms] and [HTML: Forms][html-forms]_
+
 - [React beta docs API reference: working with `<input>`](https://beta.reactjs.org/reference/react-dom/components/input)
 - [React Mental Model: Working with Input](https://learnreact.design/posts/react-mental-model-html-input)
 - [Dave Ceddia: React Forms](https://daveceddia.com/react-forms/)
@@ -165,3 +167,5 @@ You could also perform a search without making an AJAX request, by filtering dat
 
 - [Create a search bar from scratch](https://blog.logrocket.com/create-search-bar-react-from-scratch/)
 - [How to Build a Search Bar in React](https://www.emgoto.com/react-search-bar/)
+
+{% include reference_links.md %}

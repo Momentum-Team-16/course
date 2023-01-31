@@ -5,13 +5,14 @@ parent: References
 layout: resource_list
 ---
 
-## Forms in HTML
+## HTML Forms
 
 - [MDN Forms Guide](https://developer.mozilla.org/en-US/docs/Learn/Forms)
 - [MDN HTML form element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
 - [MDN HTMLFormElement](https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement/elements)
 - [MDN HTML input element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
 - [MDN HTML label element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label)
+- [MDN Using FormData Objects](https://developer.mozilla.org/en-US/docs/Web/API/FormData/Using_FormData_Objects)
 
 ## Submitting
 

@@ -55,3 +55,11 @@
   code_demo_url: https://github.com/Momentum-Team-16/example-react-devs
   post_today: true
   published: true
+- title: Authentication in React
+  tag: fe
+  phase: 3
+  date: 2023-01-31
+  page: phase3-fe/auth-in-react.md
+  project_name: collaborative_project
+  code_demo_url: https://github.com/Momentum-Team-16/example-react-devs
+  published: true

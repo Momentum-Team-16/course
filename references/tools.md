@@ -15,7 +15,7 @@ layout: resource_list
 ## Back End Tools
 
 - [🐛 Debugging Python For Fun & Profit (video)](https://www.youtube.com/watch?v=rMCZgYfEJJI)
-- [Code Style Checks in Python](https://julien.danjou.info/code-style-checks-in-python/) _We installed `flake8` on the first day of this phase. This post gives you some detail about what it's for and why you need it._
+- [Code Style Checks in Python](https://julien.danjou.info/code-style-checks-in-python/) _This post gives you some detail about what flake8 for and why you need it._
 - [DB Browser for SQLite](https://sqlitebrowser.org/) - a GUI for your sqlite database
 
 ## Collaboration
