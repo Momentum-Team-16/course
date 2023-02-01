@@ -30,7 +30,8 @@ layout: resource_list
 
 ## npm and Node
 
-- [Beginner's Guide to npm](https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/)
+- [A Complete Beginner's Guide to npm](https://css-tricks.com/a-complete-beginners-guide-to-npm/) _This is a bigger picture view that explains the context of npm -- start here._
+- [Beginner's Guide to npm](https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/) _This goes into detail about the commands you can use with `npm`_
 - [Dan Abramov, Broken by Design](https://overreacted.io/npm-audit-broken-by-design/) - Read this to understand the context for all the many security warnings and dire messages that appear in your terminal when you use npm.
 - [Computer setup instructions for installing npm](https://momentumlearn.notion.site/Computer-Set-up-Instructions-Apple-Silicon-ec1d2bca911a467a97655127390e8209)
 
