@@ -64,3 +64,11 @@
   project_name: collaborative_project
   code_demo_url: https://github.com/Momentum-Team-16/example-django-habit-tracker
   published: true
+- title: API Endpoints
+  tag: be
+  phase: 3
+  date: 2023-02-02
+  page: phase3-be/endpoints.md
+  project_name: collaborative_project
+  code_demo_url: https://github.com/Momentum-Team-16/example-drf-library
+  published: true

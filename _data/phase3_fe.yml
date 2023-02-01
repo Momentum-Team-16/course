@@ -63,3 +63,11 @@
   project_name: collaborative_project
   code_demo_url: https://github.com/Momentum-Team-16/example-react-devs
   published: true
+- title: URL Routing in React
+  tag: fe
+  phase: 3
+  date: 2023-02-02
+  page: phase3-fe/react-router.md
+  project_name: collaborative_project
+  code_demo_url: https://github.com/Momentum-Team-16/example-react-devs
+  published: true

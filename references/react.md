@@ -151,6 +151,15 @@ For starters, here are two good takes on how to organize your files.
 
 ## React Router
 
+### Basics
+
+- [React Router Overview: What It Does and Why We Need It](https://reactrouter.com/en/main/start/overview#feature-overview)
+- [React Router Official Tutorial](https://reactrouter.com/en/main/start/tutorial)
+- [How to Set Up React Router and Route to Other Components](https://www.freecodecamp.org/news/how-to-use-react-router-version-6/)
+- [Learn React Router v6 in 45 minutes](https://youtu.be/Ul3y1LXxzdU)
+
+### General
+
 - [React Router docs](https://reactrouter.com/en/main)
 - [React Router Main Concepts](https://reactrouter.com/en/main/start/concepts) _This is pretty in-depth, and you may not need it, but it's helpful if you want more explanation._
 - [A Complete Guide to React Router](https://ui.dev/react-router-tutorial/) _really comprehensive, really good_
