@@ -37,7 +37,7 @@ Make sure you have the following set up in your local environment.
 - 📖 [React docs](https://reactjs.org/docs/getting-started.html)
 - 📺 [Kent C. Dodds, The Introduction to React You've Been Missing](https://www.youtube.com/watch?v=SAIdyBFHfVU)
 - 🎧 [Syntax.fm podcast: The React Episode](https://syntax.fm/show/066/the-react-episode)
-- [An Absolute Beginner's Guide to npm](https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/) You can skim this -- there is more here than you need.
+- 📖 [A Complete Beginner's Guide to npm](https://css-tricks.com/a-complete-beginners-guide-to-npm/) )
 
 ## 🏗️ Project: React Tutorial
 
