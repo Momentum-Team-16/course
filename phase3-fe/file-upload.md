@@ -4,15 +4,19 @@ title: Uploading Files
 topic: JavaScript
 category: phase3-fe
 parent: Phase 3 Front End
-nav_order: 10
+nav_order: 11
 published: false
 ---
 
-## Objectives
+## 🎯 Objectives
 
 - Project progress check-in
 - Get past any blockers you have
 - File inputs and implementing file upload
+
+## 🏗️ Project
+
+What can you do to make your project not just minimally functional, but great?
 
 ## Handling Uploaded Files
 

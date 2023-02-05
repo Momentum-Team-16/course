@@ -71,3 +71,12 @@
   project_name: collaborative_project
   code_demo_url: https://github.com/Momentum-Team-16/example-react-devs
   published: true
+- title: Search in React
+  tag: fe
+  phase: 3
+  date: 2023-02-06
+  page: phase3-fe/search.md
+  project_name: collaborative_project
+  code_demo_url: https://github.com/Momentum-Team-16/example-react-devs
+  published: true
+  post_today: true

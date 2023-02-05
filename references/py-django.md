@@ -95,3 +95,8 @@ layout: resource_list
 - [The Forms API](https://docs.djangoproject.com/en/4.0/ref/forms/api/) -> Details on form object attribute and methods (such as `as_p()`)
 - [Django's CSRF protection](https://docs.djangoproject.com/en/4.0/ref/csrf/)
     - [What is CSRF?](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html)
+
+### Custom Management Commands
+
+- [How to create custom django-admin commands (django docs)](https://docs.djangoproject.com/en/4.1/howto/custom-management-commands/)
+- [How to Create Custom Django Management Commands - Simple Is Better Than Complex](https://simpleisbetterthancomplex.com/tutorial/2018/08/27/how-to-create-custom-django-management-commands.html)

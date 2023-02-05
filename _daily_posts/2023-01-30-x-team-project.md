@@ -3,7 +3,6 @@ title: 'FE + BE Collaborative Project'
 phase: 3
 date: 2023-01-30
 layout: daily_post
-permalink: date
 ---
 
 This week you will begin work on a project with both front- and back-end teammates. This project is due at the end of the Phase, on {{ site.data.projects.collaborative_project.due_date | date: "%A, %B %e" }}.

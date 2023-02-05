@@ -72,3 +72,12 @@
   project_name: collaborative_project
   code_demo_url: https://github.com/Momentum-Team-16/example-drf-library
   published: true
+- title: Search with DRF and Postgres
+  tag: be
+  phase: 3
+  date: 2023-02-06
+  page: phase3-be/full-text-search.md
+  project_name: collaborative_project
+  code_demo_url: https://github.com/Momentum-Team-16/example-drf-library
+  published: true
+  post_today: true

@@ -98,6 +98,11 @@ _See also [HTTP: CORS][cors]_
 - 📺 [Finally Understand Auth in DRF - a Will Vincent talk](https://www.youtube.com/watch?v=pY-oje5b5Qk) _Will isn't using the Djoser library but he does a great job of reviewing different auth strategies and why you would choose one or the other. Watch this for a better understanding and overview of authentication._
 - 📖 [Simple Is Better Than Complex: How to Implement Token Authentication in DRF](https://simpleisbetterthancomplex.com/tutorial/2018/11/22/how-to-implement-token-authentication-using-django-rest-framework.html) _This does NOT use Djoser, but it's a great walkthrough of some of what Djoser does for you if you would like more detail._
 
+## Pagination
+
+- [DRF docs: Pagination](https://www.django-rest-framework.org/api-guide/pagination/)
+- [Classy DRF: PageNumberPagination](https://www.cdrf.co/3.13/rest_framework.pagination/PageNumberPagination.html)
+
 ## Search
 
 - [Search from the Ground Up](https://www.youtube.com/watch?v=is3R8d420D4&list=PL2NFhrDSOxgXXUMIGOs8lNe2B-f4pXOX-&index=2) _DjangoCon 2019 video explaining search in detail_

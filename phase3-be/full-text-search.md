@@ -1,36 +1,31 @@
 ---
 layout: topic
-title: Postgres Full-Text Search
+title: Search with DRF and Postgres
 topic: Python
 category: phase3-be
 parent: Phase 3 Back End
-nav_order: 11
-published: false
+nav_order: 10
+published: true
 ---
 
-## Objectives
+## 🎯 Objectives
 
-- Wrapping up the collaborative project
-- Implementing search, including Postgres full-text search
+- Assessing what is left to be done on the collaborative project
+- Implementing search in your API
+- Postgres full-text search
+- Paginating data in responses
+- Using a management command to create seed data
 
-## 🎯 Project Due
+## 🏗️ Project
 
-**Please include a README** in your project repo. The README should:
+What can you do to make your project not just minimally functional, but great?
 
-- be titled README.md and live at the root of your project repo
-- be written in Markdown
-- include a link to your production application
-- have instructions for getting your application running locally, so that any developer could pull it down and run it
+## Read Watch Listen
 
-**Your README must include documentation for your API's available endpoints.**
-
-👉 If your project meets minimum requirements today, HUZZAH! That is awesome. You should be working on **at least one additional or spicy feature**.
-
-👉 If your project does not yet meet minimum requirements, your goal should be meeting them **by the end of the day tomorrow**.
-
-### Note on checking whether you meet requirements
-
-Depending on how you've constructed your API, you might have separate endpoints for all of the requirements, or you might have fewer endpoints (for instance, if you nested answers in the question detail endpoint, like `questions/4/answers`). What matters is that you have endpoints that your front-end team can use to perform all the necessary actions they need and that are documented in your README.
+- 📖 [Basic and Full-Text Search with Django and Postgres](https://testdriven.io/blog/django-search/)
+- 📺 [Search from the Ground Up](https://www.youtube.com/watch?v=is3R8d420D4&list=PL2NFhrDSOxgXXUMIGOs8lNe2B-f4pXOX-&index=2) _Will Vincent talk at DjangoCon 2019 explaining search in detail_
+- 📺 [Pretty Printed: How to Perform Full Text Searches in Django with Postgres](https://www.youtube.com/watch?app=desktop&v=139a0fm0YFY)
+- 🎧 [Django Chat Podcast: Search](https://djangochat.com/episodes/search)
 
 ## 🔖 References
 
