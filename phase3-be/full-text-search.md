@@ -20,12 +20,13 @@ published: true
 
 What can you do to make your project not just minimally functional, but great?
 
-## Read Watch Listen
+## 📖 Read | 📺 Watch | 🎧 Listen
 
 - 📖 [Basic and Full-Text Search with Django and Postgres](https://testdriven.io/blog/django-search/)
 - 📺 [Search from the Ground Up](https://www.youtube.com/watch?v=is3R8d420D4&list=PL2NFhrDSOxgXXUMIGOs8lNe2B-f4pXOX-&index=2) _Will Vincent talk at DjangoCon 2019 explaining search in detail_
 - 📺 [Pretty Printed: How to Perform Full Text Searches in Django with Postgres](https://www.youtube.com/watch?app=desktop&v=139a0fm0YFY)
 - 🎧 [Django Chat Podcast: Search](https://djangochat.com/episodes/search)
+
 
 ## 🔖 References
 
