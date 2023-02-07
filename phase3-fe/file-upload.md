@@ -5,7 +5,7 @@ topic: JavaScript
 category: phase3-fe
 parent: Phase 3 Front End
 nav_order: 11
-published: false
+published: true
 ---
 
 ## 🎯 Objectives
@@ -14,11 +14,15 @@ published: false
 - Get past any blockers you have
 - File inputs and implementing file upload
 
-## 🏗️ Project
+## 🏗️ Wrapping Up This Project
 
-What can you do to make your project not just minimally functional, but great?
+What remains to be done on your project? Some things to consider:
 
-## Handling Uploaded Files
+- Is it working in production?
+- Is it styled?
+- Have you considered [how to handle states like errors (e.g., a 400 or 403 response), loading, or empty](https://blog.logrocket.com/ui-design-best-practices-loading-error-empty-state-react/)?
+
+## 📂 Handling Uploaded Files
 
 The back-end is learning how to accept requests that included attached files (including image files). They will need to provide you with an endpoint that can accept attached files so that you can make a request to upload the file. But even before that endpoint is working, you can implement the form to allow users to upload a file.
 

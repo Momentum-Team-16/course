@@ -80,3 +80,12 @@
   code_demo_url: https://github.com/Momentum-Team-16/example-react-devs
   published: true
   post_today: true
+- title: Uploading Files
+  tag: fe
+  phase: 3
+  date: 2023-02-07
+  page: phase3-fe/file-upload.md
+  project_name: collaborative_project
+  code_demo_url: https://github.com/Momentum-Team-16/example-react-devs
+  published: true
+  post_today: true

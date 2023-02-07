@@ -78,6 +78,15 @@
   date: 2023-02-06
   page: phase3-be/full-text-search.md
   project_name: collaborative_project
+  code_demo_url: https://github.com/Momentum-Team-16/example-django-habit-tracker
+  published: true
+  post_today: true
+- title: File & Image Upload
+  tag: be
+  phase: 3
+  date: 2023-02-07
+  page: phase3-be/file-and-image-upload.md
+  project_name: collaborative_project
   code_demo_url: https://github.com/Momentum-Team-16/example-drf-library
   published: true
   post_today: true

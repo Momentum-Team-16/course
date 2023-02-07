@@ -5,23 +5,25 @@ topic: Python
 category: phase3-be
 parent: Phase 3 Back End
 nav_order: 11
-published: false
+published: true
 ---
 
-## Objectives
+## 🎯 Objectives
 
 - How to upload files with Django & DRF
 - How to configure storage for production uploads
 
-## 🎯 Continue the Collaborative Project
+## 🏗️ Wrapping up this Project
 
 Your documentation should be done and delivered to the front end by now. For an example of what your documentation should look like, see the README for the DRF Library example.
 
-👉 If your project does not yet meet minimum requirements, you should aim for meeting them **by midweek**.
+Make sure to check your permissions and validations. Your model fields should not allow the creation of records with null fields that are crucial for the functioning of your app, for instance.
 
-## 📁 Handling requests that include attached files
+👉 If your project does not yet meet minimum requirements, you should aim for meeting them **by the end of the day tomorrow**.
 
-#### Using Insomnia
+## 📎 Handling requests that include attached files
+
+### Using Insomnia
 
 - Select the right HTTP method for your endpoint.
 - Choose binary file attachment from the body menu (where you normally put the body of a request)
@@ -58,20 +60,11 @@ CORS_ALLOW_HEADERS = list(default_headers) + [
 - 📖 [What is Amazon S3?](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html) -> Skim this -- this is Amazon's documentation and it gets really in-depth.
     - 📺 [Introduction to S3](https://www.youtube.com/watch?v=77lMCiiMilo) -> Also from Amazon
 
-### Search
-
-- 📖 [Basic and Full-Text Search with Django and Postgres](https://testdriven.io/blog/django-search/)
-- 📺 [Search from the Ground Up](https://www.youtube.com/watch?v=is3R8d420D4&list=PL2NFhrDSOxgXXUMIGOs8lNe2B-f4pXOX-&index=2) -> Will Vincent talk at DjangoCon 2019 explaining search in detail
-- 📺 [Pretty Printed: How to Perform Full Text Searches in Django with Postgres](https://www.youtube.com/watch?app=desktop&v=139a0fm0YFY)
-- 📺 [Full Text Search with Django and PostgreSQL: More Facets, Less Dependencies](https://youtu.be/QFs6qgvyTC4) -> Team 11 Momentum grad Jason Judkins is a co-presenter of this talk given at last month's DjangoCon! 🤩
-- 📖 [If you want A LOT more detail about full-text search in Postgres and Django, this blog piece has you covered](https://pganalyze.com/blog/full-text-search-django-postgres)
-- 📖 [Blog post with more on full-text search](https://www.netlandish.com/blog/2020/06/22/full-text-search-django-postgresql/)
 
 ## 🔖 References
 
 - [DRF File Upload][file-upload]
 - [CORS][cors]
 - [HTTP Headers][http-headers]
-- [Search][drf-search]
 
 {% include reference_links.md %}
