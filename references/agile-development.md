@@ -63,6 +63,7 @@ layout: resource_list
 - [The Power in Agile, a talk by Sarah Mei](https://www.youtube.com/watch?v=YL-6RCTywbc&feature=youtu.be) A critical look at the power dynamics implicit in Agile methods.
 - [Making sense of MVP](https://www.youtube.com/watch?v=0P7nCmln7PM) _Video that explores the skateboard diagram in detail_
 - [Agile 101: Glossary](https://www.agilealliance.org/agile101/agile-glossary/)
+- [Forming, Storming, Norming and Performing for Agile teams](https://www.scrum.org/resources/blog/forming-storming-norming-and-performing-agile-teams)
 
 ### Agile Project Management
 
