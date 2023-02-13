@@ -70,3 +70,12 @@
 [react-useref]: {% link references/react.md %}#useref
 [react-search]: {% link references/react.md %}#search
 [react-custom-hooks]: {% link references/react.md %}#custom-hooks
+
+<!-- phase 4 Agile Development -->
+
+[time-management]: {% link references/agile-development.md %}#time-management
+[team-charter]: {% link references/agile-development.md %}#team-charter
+[idea-generation]: {% link references/agile-development.md %}#idea-generation
+[agile-development]: {% link references/agile-development.md %}#agile-development
+[software-business]:{% link references/agile-development.md %}#the-business-of-making-software
+[slides]: {% link references/agile-development.md %}#slides

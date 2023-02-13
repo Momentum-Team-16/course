@@ -1,6 +1,6 @@
 ---
 title: Phase 3
-phase: 2
+phase: 3
 ---
 
 {% assign be_topics = site.data.phase3_be | reverse %}
