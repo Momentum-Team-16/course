@@ -1,4 +1,5 @@
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+<!-- markdownlint-disable link-image-reference-definitions first-line-heading -->
 
 <!-- phase 1 front end -->
 [vs-code]: {% link references/learning.md %}#using-vs-code
@@ -73,6 +74,8 @@
 
 <!-- phase 4 Agile Development -->
 
+[agile-101]: {% link references/agile-development.md %}#intro-to-agile-development
+[agile-practices]: {% link references/agile-development.md %}#agile-practices
 [time-management]: {% link references/agile-development.md %}#time-management
 [team-charter]: {% link references/agile-development.md %}#team-charter
 [idea-generation]: {% link references/agile-development.md %}#idea-generation
