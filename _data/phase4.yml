@@ -17,11 +17,12 @@
   published: true
 - title: Trello and Tasks
   phase: 4
-  date: 2023-02-15
+  date: 2023-02-16
   page: phase4/trello-and-tasks.md
-  published: false
+  published: true
+  post_today: true
 - title: Project Checklists
   phase: 4
-  date: 2023-02-16
+  date: 2023-02-17
   page: phase4/project-checklists.md
   published: false
