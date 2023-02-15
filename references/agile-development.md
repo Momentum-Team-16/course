@@ -92,5 +92,6 @@ layout: resource_list
 - [Agile slides](https://drive.google.com/file/d/11FdKfcBitBjs7R6Tqkug7oTn9NWdCltQ/view?usp=share_link)
 - [Idea slides](https://drive.google.com/file/d/16F1Rzg8yEecoBem4WSqcL0MdGuC1Oo_i/view?usp=share_link)
 - [Product Roadmap Slides](https://drive.google.com/file/d/1CfBqu0XJ2nu0YwX3udJ9tulN3CxK8Tdz/view?usp=share_link)
+- [Personas & User Stories Slides](https://drive.google.com/file/d/1QCvM1hgpDYYdIfQvsfvNxiUztUTWDSyh/view?usp=sharing)
 
 {% include reference_links.md %}
