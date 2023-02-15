@@ -75,8 +75,21 @@ layout: resource_list
 
 - [Atlassian: Writing User Stories](https://www.atlassian.com/agile/project-management/user-stories)
 - [FreeCodeCamp Video: How and Why to Write User Stories](https://youtu.be/Fw98L-kcRpc)
-- [User Flows](https://www.productplan.com/glossary/user-flow/)
+- [Goat User Stories on Twitter](https://twitter.com/goatuserstories?lang=en)
+- [How to Write the Best User Stories with Story Cards](https://www.leandog.com/blog/how-to-write-the-best-user-stories-with-story-cards)
 - [Story Mapping](https://www.productplan.com/glossary/story-mapping/)
+
+## User Flows
+
+- [User Flows](https://www.productplan.com/glossary/user-flow/)
+- - [Designing User Flows](https://www.smashingmagazine.com/2012/01/stop-designing-pages-start-designing-flows/)
+- [A shorthand for designing UI flows](https://signalvnoise.com/posts/1926-a-shorthand-for-designing-ui-flows)
+- [Creating Perfect User Flows for Smooth UX](https://www.uxpin.com/studio/blog/creating-perfect-user-flows-for-smooth-ux/)
+
+## Going from User Stories to Tasks
+
+- [Breaking down user stories into tasks](https://www.pluralsight.com/guides/break-down-agile-user-stories-into-tasks-and-estimate-level-of-effort?utm_source=pocket_reader)
+- [Composing Meaningful Tasks](https://medium.com/agile-adapt/composing-meaningful-tasks-c1ca51064c1a)
 
 ## The Business of Making Software
 
