@@ -8,6 +8,13 @@ nav_order: 3
 published: true
 ---
 
+## 🎯 Learning Objectives & Agenda
+
+- Figuring out who your users are (and aren't)
+- Using Personas to communicate about your app's users
+- Map out user flows
+- Create wireframes
+- Writing user stories
 
 ### Personas & User Stories
 
@@ -19,6 +26,7 @@ You _do_ need to write user stories. You'll be ready to do this once you can ans
 
 - [User stories][user-stories]
 - [Personas][user-personas]
+- [User Flows][user-flows]
 - [Personas & User Stories Slides](https://drive.google.com/file/d/1QCvM1hgpDYYdIfQvsfvNxiUztUTWDSyh/view?usp=sharing)
 
 {% include reference_links.md %}
