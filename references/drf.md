@@ -137,5 +137,6 @@ _See also [HTTP: CORS][cors]_
     - [Introduction to S3](https://www.youtube.com/watch?v=77lMCiiMilo) _Also from Amazon_
 - [How to Set Up Amazon S3](https://simpleisbetterthancomplex.com/tutorial/2017/08/01/how-to-setup-amazon-s3-in-a-django-project.html)
     - [AWS S3 Free Tier Info](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=categories%23storage)
+- [Storing Django Static and Media files on AWS S3](https://testdriven.io/blog/storing-django-static-and-media-files-on-amazon-s3/)
 
 {% include reference_links.md %}

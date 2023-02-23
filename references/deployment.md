@@ -10,6 +10,7 @@ layout: resource_list
 - 📺 [Katie McLaughlin, What is Deployment, Anyway?](https://2021.djangocon.us/talks/what-is-deployment-anyway/)
 - 📖 [Full Stack Python: Deployment](https://www.fullstackpython.com/deployment.html)
 - 🎧 [Deploying and Running Django Web Apps in 2021](https://talkpython.fm/episodes/show/301/deploying-and-running-django-web-apps-in-2021)
+- [The Essential Django Deployment Guide](https://www.saaspegasus.com/guides/django-deployment/) _Big picture of all your options and considerations, very thorough._
 
 ### Deployment-Related How-Tos
 
