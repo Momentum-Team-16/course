@@ -12,7 +12,7 @@ published: true
 
 ## Feb 20 - March 10
 
-### Standup and Check-Ins will be in the [classroom Zoom](https://us02web.zoom.us/j/88017099254?pwd=S0dXVDlNaE1wWU1uTE5mVFFDa0xoZz09)
+### Standup and Check-Ins will be in the [regular Zoom meeting](https://us02web.zoom.us/j/88017099254?pwd=S0dXVDlNaE1wWU1uTE5mVFFDa0xoZz09)
 
 _All times in EST._
 
@@ -38,7 +38,6 @@ _All times in EST._
 - **All-Team Low-Key Demo Friday March 3 @2:00 pm**
   - All teams meet together to show each other what you have been working on and get feedback and support from peers.
 - The **last** scheduled check-in is on **Tuesday March 7** at your team's regular check-in time.
-
 
 ## Final Week March 6-10
 
