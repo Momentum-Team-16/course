@@ -5,14 +5,14 @@ topic: Agile
 category: phase4
 parent: Phase 4
 nav_order: 6
-published: true
+published: false
 ---
 
 # Phase 4 Final Project & Presentation Schedule
 
 ## Feb 20 - March 10
 
-### Standup and Check-Ins will be in the [regular Zoom meeting](https://us02web.zoom.us/j/88017099254?pwd=S0dXVDlNaE1wWU1uTE5mVFFDa0xoZz09)
+### Standup and Check-Ins will be in the regular [Zoom](https://us02web.zoom.us/j/88017099254?pwd=S0dXVDlNaE1wWU1uTE5mVFFDa0xoZz09)
 
 _All times in EST._
 
@@ -64,8 +64,9 @@ _All times in EST._
 ### Thursday March 9
 
 - Morning: **Public-speaking coaching for each team with Jessica** (_A working draft of your script will be useful for this meeting._)
-    - Team times TBD
-- 1:30-2:30 pm **Second rehearsal with staff**
+    - 11:30 am-12 pm Team Pepa
+    - 1:15-1:45 pm Team Austin 3-16
+- 1:45-2:15 pm **Second rehearsal with staff**
     - All teams together
     - Please have your screencast done.
 - 3:30 pm **Final screencast video & blurb due** to Jessica ([Google Drive link](https://drive.google.com/drive/folders/17Xro-vfYzNdijfF2JBsUa1edj_P7NDn4?usp=sharing))
