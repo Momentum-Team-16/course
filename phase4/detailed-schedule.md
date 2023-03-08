@@ -5,7 +5,7 @@ topic: Agile
 category: phase4
 parent: Phase 4
 nav_order: 6
-published: false
+published: true
 ---
 
 # Phase 4 Final Project & Presentation Schedule
@@ -38,6 +38,7 @@ _All times in EST._
 - **All-Team Low-Key Demo Friday March 3 @2:00 pm**
   - All teams meet together to show each other what you have been working on and get feedback and support from peers.
 - The **last** scheduled check-in is on **Tuesday March 7** at your team's regular check-in time.
+
 
 ## Final Week March 6-10
 
